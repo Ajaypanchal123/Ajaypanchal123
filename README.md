@@ -13,13 +13,13 @@
 I love coding in Python :snake:. I work as a Python Developer.
 <img  src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" />
 
-- :telescope: I’m working as a Computer Engineer and contributing to frontend and backend for building web applications in Python and ODOO.
+- :telescope: I’m working as a Computer Engineer and contributing to backend for building web applications in Python.
 
 - :telescope: I’m currently working on `Something Intresting`.
 
 - :dancers: I’m looking to collaborate for `Development Projects`
 
--  :thinking_face: I’m looking for help with `Competitive Programming`
+- 🤔: I’m looking for help with `Competitive Programming`
 
 - :speech_balloon: Ask me about anything :sweat_smile:
 
@@ -27,7 +27,7 @@ I love coding in Python :snake:. I work as a Python Developer.
 
 - :zap: In my free time I solve problems on GeeksforGeeks and read tech articles.
 
--  :male-technologist: Life Hack: Learn new tech :fire: and share what you have learned :tada:
+- 👨‍💻: Life Hack: Learn new tech :fire: and share what you have learned :tada:
 
 - :zap: Fun fact: I waste most of my time playing games
 
