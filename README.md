@@ -7,18 +7,28 @@
 <h1 align="center">Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"> My name is Ajay Panchal</h1>
 <p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
 ### Python developer
-### :woman_technologist: About Me :
+### About Me :
 I love coding<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> in Python :snake:. I work as a Python Developer.
 <img  src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" />
+
 - :telescope: I’m working as a Computer Engineer and contributing to frontend and backend for building web applications in Python and ODOO.
+
 - :telescope: I’m currently working on `Something Intresting`.
+
 - :dancers: I’m looking to collaborate for `Development Projects`
+
 - :thinking_face: I’m looking for help with `Competitive Programming`
+
 - :speech_balloon: Ask me about anything :sweat_smile:
+
 - :seedling: Exploring Technical Content Writing.
+
 - :zap: In my free time I solve problems on GeeksforGeeks and read tech articles.
+
 - :male-technologist: Life Hack: Learn new tech :fire: and share what you have learned :tada:
+
 - :zap: Fun fact: I waste most of my time playing games
+
 ## :hammer_and_wrench: Technologies and Tools I use:
 <p>
 <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" height="25px"/>
@@ -36,4 +46,4 @@ I love coding<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gi
 <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" height="25px"/>
 <img alt="VSCode" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" height="25px"/>
 </p>
-[![GitHub Game of Life](https://github4life.herokuapp.com/ethomson.gif?z=6)](https://github4life.herokuapp.com/ethomson)
+
