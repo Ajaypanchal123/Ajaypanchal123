@@ -6,9 +6,11 @@
 <p align="center"><img src="https://komarev.com/ghpvc/?username=kakbar&style=flat-square&color=blue" alt=""></p>
 <h1 align="center">Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"> My name is Ajay Panchal</h1>
 <p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
+
 ### Python developer
+
 ### About Me :
-I love coding<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> in Python :snake:. I work as a Python Developer.
+I love coding in Python :snake:. I work as a Python Developer.
 <img  src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" />
 
 - :telescope: I’m working as a Computer Engineer and contributing to frontend and backend for building web applications in Python and ODOO.
