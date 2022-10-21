@@ -19,7 +19,7 @@ I love coding in Python :snake:. I work as a Python Developer.
 
 - :dancers: I’m looking to collaborate for `Development Projects`
 
-- :thinking_face: I’m looking for help with `Competitive Programming`
+-  :thinking_face: I’m looking for help with `Competitive Programming`
 
 - :speech_balloon: Ask me about anything :sweat_smile:
 
@@ -27,7 +27,7 @@ I love coding in Python :snake:. I work as a Python Developer.
 
 - :zap: In my free time I solve problems on GeeksforGeeks and read tech articles.
 
-- :male-technologist: Life Hack: Learn new tech :fire: and share what you have learned :tada:
+-  :male-technologist: Life Hack: Learn new tech :fire: and share what you have learned :tada:
 
 - :zap: Fun fact: I waste most of my time playing games
 
